@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on improving **DevOps skills and tools**
 
-- 🌱 I’m currently learning **DevOps practices and cloud technologies****
-- 
+- 🌱 I’m currently learning **DevOps practices and cloud technologies**
 
 - 👯 I’m looking to collaborate on **Devops projects**
 
